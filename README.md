@@ -2,9 +2,11 @@
 A Gym Member Management System using Django. A simple gym member manager to keep a track of all payments and members.
 
 # Working:
-[![Watch the video](https://img.youtube.com/vi/fqcFv9RPXzI/0.jpg)](https://youtu.be/fqcFv9RPXzI)
-
 # Demo Video
+Watch Videos
+
+https://youtu.be/t8eIkQ3p6o8
+
 
 
 <h2>Technologies Used:</h2>
